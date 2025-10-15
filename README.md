@@ -1,4 +1,4 @@
-alidadorDeBoleto
+# ValidadorDeBoleto
 
 É um código simples para validar boletos (ainda está um pouco limitado e com poucas informações).
 A única coisa que precisa fazer é dar o input com algum número de boleto para ele verificar se é um boleto válido.
